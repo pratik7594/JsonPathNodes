@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'JsonPathNodes'  
-s.version          = '0.0.1'  
+s.version          = '0.0.2'  
 s.summary          = 'Custom pod creation for JsonPath iOS' 
 s.description      = <<-DESC
 TODO:
